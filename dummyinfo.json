@@ -1,0 +1,14 @@
+{
+    "basicInfo": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateOfBirth": "1990-01-01"
+      },
+    "demographicInfo": {
+        "addressLine1": "123 Main St",
+        "addressLine2": "Anytown",
+        "city": "USA",
+        "state": "CA",
+        "zipCode": "12345"
+      }
+  }
